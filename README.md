@@ -1,5 +1,5 @@
-# loan
-
+# loan截图
+![预览](./loan.png)
 ## Project setup
 ```
 npm install
